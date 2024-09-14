@@ -1,6 +1,6 @@
 # Spanish
 Learn Spanish &amp; English
-
+<pre>
 The proposition of erecting a barrier between the
 United States and Mexico carries a spectrum of adverse
 implications and consequences. Firstly, it bears the
@@ -733,3 +733,4 @@ you - tú
 
 More of my language tools can be found at:
 https://github.com/alt-magick/Writing-Prompts
+</pre>
