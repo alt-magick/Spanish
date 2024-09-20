@@ -1,6 +1,6 @@
 # Spanish
 Learn Spanish &amp; English
-<pre>
+
 The proposition of erecting a barrier between the
 United States and Mexico carries a spectrum of adverse
 implications and consequences. Firstly, it bears the
@@ -178,6 +178,7 @@ and cultural nuances of the target language.
 
 Here is a list I created of the most common words translated into spanish:
 
+<pre>
 a - a
 able - capaz
 about - acerca de
