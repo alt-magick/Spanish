@@ -1,0 +1,553 @@
+
+a - a
+able - capaz
+about - acerca de
+above - arriba
+actually - de hecho
+after - después
+again - de nuevo
+against - contra
+agree - aceptar
+agreed - acordado
+all - todo
+allow - permitir
+almost - casi
+already - ya
+also - también
+although - a pesar de
+always - siempre
+am - soy
+an - un
+and - y
+another - otro
+answer - respuesta
+any - cualquier
+anymore - ya no
+anyone - alguien
+anything - cualquier cosa
+anyway - de todos modos
+anywhere - en cualquier lugar
+apparently - aparentemente
+are - son
+around - alrededor
+as - como
+aside - aparte
+ask - preguntar
+asked - preguntó
+at - en
+away - lejos
+awhile - Un rato
+back - atrás
+bad - malo
+badly - gravemente
+be - ser
+became - convertirse
+because - porque
+become - convertirse
+been - estado
+before - antes
+began - comenzó
+begin - comenzar
+beginning - comienzo
+begun - comenzado
+behind - detrás
+being - ser
+believe - creer
+beside - al lado de
+best - mejor
+better - mejor
+between - entre
+beyond - más allá de
+big - grande
+block - bloquear
+both - ambos
+break - romper
+bring - traer
+brought - trajo
+but - pero
+by - por
+called - llamado
+came - vino
+can - poder
+cannot - no puedo
+cant - no poder
+care - cuidado
+careful - cuidadoso
+carefully - con cuidado
+caught - atrapó
+certain - cierto
+chance - oportunidad
+change - cambiar
+changed - cambió
+checked - comprobado
+choose - elegir
+chose - eligió
+chosen - elegido
+clear - claro
+close - cerca
+closed - cerrado
+closely - cercanamente
+closer - cerca
+come - venir
+comes - llega
+coming - próximo
+compare - comparar
+continue - continuar
+continued - continuado
+control - control
+could - podría
+couldn't - no pude
+course - curso
+create - crear
+current - actual
+decided - decidido
+deny - denegar
+depend - depender
+despite - a pesar de
+did - hizo
+didn't - no
+different - diferente
+difficult - difícil
+do - hacer
+does - hace
+doesn't - no
+doing - haciendo
+don't - no
+done - hecho
+doubt - duda
+doubted - dudó
+down - abajo
+during - durante
+each - cada
+earlier - más temprano
+early - temprano
+easier - más fácil
+easily - fácilmente
+easy - fácil
+effort - esfuerzo
+either - cualquiera
+else - demás
+end - fin
+enough - suficiente
+enter - ingresar
+entire - completo
+equal - igual
+even - incluso
+ever - alguna vez
+every - cada
+everyone - todos
+everything - todo
+exactly - exactamente
+except - excepto
+expect - esperar
+expected - esperado
+explain - explicar
+extra - extra
+fact - hecho
+far - lejos
+fast - rápido
+feel - sentir
+feeling - sentimiento
+felt - sintió
+few - pocos
+finally - finalmente
+find - encontrar
+fine - bien
+finished - finalizado
+first - primero
+followed - seguido
+for - para
+found - encontró
+from - de
+full - lleno
+gather - recolectar
+gave - dio
+general - general
+get - conseguir
+gets - obtiene
+getting - conseguir
+girl - chica
+give - dar
+given - dado
+go - ir
+goes - va
+going - yendo
+gone - desaparecido
+good - bien
+got - consiguió
+gotten - conseguido
+great - excelente
+had - tenía
+hadn't - no lo había hecho
+happened - sucedió
+hard - duro
+hardly - difícilmente
+has - tiene
+have - tener
+having - teniendo
+he - él
+he'd - él
+he's - él es
+head - cabeza
+heard - escuchó
+held - sostuvo
+help - ayuda
+her - su
+here - aquí
+him - a él
+himself - él mismo
+his - su
+hold - sostener
+how - cómo
+however - sin embargo
+hurt - herir
+I - I
+idea - idea
+if - si
+immediately - inmediatamente
+important - importante
+impossible - imposible
+in - en
+instead - en cambio
+interesting - interesante
+into - en
+is - es
+isn't - no es
+it - él
+its - es
+itself - sí mismo
+join - unirse
+just - justo
+keep - mantener
+keeps - mantiene
+kept - conservó
+kind - amable
+knew - sabía
+know - saber
+knowing - conocimiento
+known - conocido
+knows - sabe
+lady - dama
+last - último
+late - tarde
+later - más tarde
+leaned - inclinado
+learned - aprendió
+least - el menos
+leave - dejar
+left - izquierda
+less - menos
+let - dejar
+lie - mentir
+like - como
+liked - apreciado
+likely - probable
+likes - gustos
+listen - escuchar
+little - pequeño
+long - largo
+longer - más extenso
+look - mirar
+looked - miró
+looking - mirando
+looks - aspecto
+lost - perdido
+lot - lote
+love - amar
+made - hecho
+make - hacer
+makes - marcas
+making - haciendo
+managed - administrado
+many - muchos
+matter - asunto
+may - puede
+maybe - tal vez
+me - a mí
+mean - significar
+means - medio
+meant - quiso decir
+meet - encontrarse
+mere - mero
+merely - meramente
+met - reunió
+might - podría
+mind - mente
+mine - mío
+minuets - minuetos
+mistaken - equivocado
+moment - momento
+moments - momentos
+more - más
+most - mayoría
+mostly - principalmente
+move - mover
+moved - movido
+moving - Moviente
+much - mucho
+must - debe
+my - mi
+myself - mí mismo
+near - cerca
+nearby - cercano
+nearly - cerca de
+need - necesidad
+needed - necesario
+neither - ni
+never - nunca
+new - nuevo
+next - próximo
+nice - lindo
+no - No
+nobody - nadie
+none - ninguno
+normally - normalmente
+not - no
+nothing - nada
+notice - aviso
+noticed - observó
+now - ahora
+nowhere - en ningún lugar
+number - número
+obvious - obvio
+occurred - ocurrió
+odd - extraño
+of - de
+off - apagado
+often - a menudo
+old - viejo
+on - en
+once - una vez
+one - uno
+only - solo
+onto - sobre
+open - abierto
+opened - abrió
+or - o
+ordinarily - ordinariamente
+other - otro
+others - otros
+otherwise - de lo contrario
+our - nuestro
+out - afuera
+over - encima
+own - propio
+part - parte
+passed - aprobado
+past - pasado
+people - gente
+perhaps - tal vez
+person - persona
+place - lugar
+plain - plano
+pleased - complacido
+point - punto
+possible - posible
+possibly - posiblemente
+probably - probablemente
+problem - problema
+pulled - tirado
+put - poner
+quick - rápido
+quickly - rápidamente
+quiet - tranquilo
+quit - abandonar
+quite - bastante
+ran - corrió
+rather - bastante
+reach - alcanzar
+reached - alcanzó
+ready - listo
+real - real
+realized - comprendió
+really - en realidad
+reason - razón
+recognized - Reconocido
+remain - permanecer
+remember - recordar
+remembered - recordado
+reminded - recordado
+repeat - repetir
+require - requerir
+required - requerido
+rest - descansar
+return - devolver
+returned - regresó
+right - bien
+said - dicho
+same - mismo
+saw - sierra
+say - decir
+says - dice
+search - buscar
+second - segundo
+see - ver
+seeing - vidente
+seem - parecer
+seemed - pareció
+seems - parece
+seen - visto
+send - enviar
+sense - sentido
+sent - enviado
+serious - grave
+set - colocar
+several - varios
+share - compartir
+shared - compartido
+she - ella
+should - debería
+shouldn't - no debería
+show - espectáculo
+showed - presentado
+shown - mostrado
+side - lado
+sight - vista
+sign - firmar
+silence - silencio
+simple - simple
+since - desde
+slow - lento
+so - entonces
+some - alguno
+somehow - de alguna manera
+someone - alguien
+something - algo
+sometimes - a veces
+somewhat - un poco
+somewhere - en algún lugar
+soon - pronto
+sooner - cuanto antes
+sort - clasificar
+start - comenzar
+started - comenzó
+starting - a partir de
+stay - permanecer
+stepped - pisó
+still - aún
+stood - permaneció
+stop - detener
+stopped - interrumpido
+such - semejante
+sudden - repentino
+suddenly - de repente
+supposed - supuesto
+sure - seguro
+surprise - sorpresa
+surprised - sorprendido
+take - llevar
+taken - tomado
+taking - tomando
+talked - habló
+talking - hablando
+tell - decir
+than - que
+that - eso
+that's - eso es
+the - el
+their - su
+them - a ellos
+then - entonces
+there - allá
+these - estos
+they - ellos
+they're - ellos son
+thing - cosa
+things - cosas
+think - pensar
+thinking - pensamiento
+this - este
+those - aquellos
+though - aunque
+thought - pensamiento
+through - a través de
+thus - de este modo
+time - tiempo
+times - veces
+to - a
+together - juntos
+told - dijo
+too - también
+took - tomó
+toward - hacia
+tried - intentó
+trouble - problema
+true - verdadero
+try - intentar
+trying - intentando
+turned - transformado
+turning - torneado
+type - tipo
+unable - incapaz
+under - bajo
+understand - entender
+understood - comprendido
+unless - a menos que
+until - hasta
+up - arriba
+upon - al
+us - a nosotros
+use - usar
+used - usado
+useful - útil
+uses - usos
+using - usando
+usual - habitual
+usually - generalmente
+vary - variar
+very - muy
+wait - esperar
+waited - esperó
+waiting - espera
+want - desear
+wanted - buscado
+was - era
+wasn't - no fue
+watch - mirar
+watched - observó
+watching - mirando
+way - forma
+ways - maneras
+we - nosotros
+well - Bueno
+went - fue
+were - eran
+weren't - no lo eran
+what - qué
+what's - qué
+whatever - lo que
+whatsoever - lo que
+when - cuando
+where - dónde
+wherever - lo que sea
+whether - si
+which - cual
+while - mientras
+who - OMS
+whoever - quien
+whole - entero
+whom - a quien
+whose - cuyo
+why - por qué
+will - voluntad
+with - con
+within - dentro
+without - sin
+won't - no
+wonder - preguntarse
+word - palabra
+words - palabras
+work - trabajar
+worked - trabajó
+working - laboral
+worse - peor
+worst - el peor
+worth - valer
+would - haría
+wouldn't - no lo haría
+wrong - equivocado
+year - año
+years - años
+yes - Sí
+yet - todavía
+you - tú
