@@ -1,4 +1,4 @@
-# Spanish
+# Common Words 
 Learn The Most Common Words In Spanish &amp; English
 
 The proposition of erecting a barrier between the
