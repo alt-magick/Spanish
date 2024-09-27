@@ -18,15 +18,6 @@ dire economic circumstances. This raises apprehensions
 regarding the curtailment of access to safety and sanctuary
 for the most vulnerable members of society.
 
-In a symbolic context, a border wall may be construed as
-a manifestation of division and isolationism, potentially
-conflicting with the historical ethos of the United States,
-characterized by principles of openness, inclusivity, and
-diversity. It runs the risk of projecting a message of
-exclusion to the global community, with potential
-implications for the nation's standing on the international
-stage.
-
 A border wall may project an unfavorable representation of
 the United States onto the global canvas. This portrayal
 could be seen as incongruous with American ideals of
@@ -79,34 +70,6 @@ heart of immigration and border security challenges.
 It provides a flexible and adaptable framework for evolving
 circumstances.
 
-Mexicans who desire to move to the United States are
-significantly influenced by various social factors
-that underscore the complexity of their motivations.
-One prominent aspect is the aspiration for improved
-social well-being and stability. Many Mexicans view
-the United States as a place where they can escape
-the challenges posed by economic volatility, violence,
-or political unrest in their home country. The prospect
-of a safer and more secure life, free from the social
-disruptions they may have experienced, serves as a
-powerful incentive.
-
-Family reunification is another compelling social driver.
-Separation from loved ones due to migration patterns can
-be emotionally taxing. For many Mexicans, the desire to
-reconnect with family members who have already established
-themselves in the U.S. is a compelling reason to make the
-journey. The bonds of family and the yearning for
-togetherness play a profound role in shaping their decision.
-
-Social mobility and a higher quality of life is a driving
-force. Mexicans see the United States as a place where they
-can enhance their social status, access better education and
-healthcare, and secure opportunities for their children to
-lead more prosperous lives. The pursuit of upward social
-mobility is a common theme that fuels the aspirations of many
-Mexican immigrants.
-
 Proficiency in the English language is of paramount
 importance for individuals pursuing U.S. citizenship,
 transcending mere legal obligation to encompass a broader
@@ -146,13 +109,6 @@ of belonging. It transcends mere linguistic utility, encompassing
 immersion in the broader community, comprehension of societal values,
 and assimilation into the cultural fabric of American society.
 
-In essence, learning English is not confined to a mere legal
-prerequisite for attaining citizenship; it constitutes a multifaceted
-pathway towards becoming an engaged, informed, and participative
-member of American society. It is the linchpin of effective
-communication, cultural assimilation, and a fulfilling life in the
-United States.
-
 The practice of translating common words while learning a new
 language serves as a valuable tool for both language novices and
 experts. Consider it a fundamental mechanism in the language
@@ -161,13 +117,6 @@ building blocks of language proficiency, expediting conversational
 competence from the very outset of language learning endeavors.
 Mastering these rudimentary words not only serves as a motivational
 catalyst for learners but also underpins their linguistic prowess.
-
-From a cognitive perspective, the act of translating and memorizing
-common words engages cognitive faculties, enhancing memory retention,
-cognitive flexibility, and problem-solving skills. As learners
-internalize these basic elements, they subsequently find it more
-accessible to navigate the intricacies of the language and delve into
-its more intricate facets.
 
 Whether one is mastering English for citizenship purposes or embarking
 on a journey to conquer a new language, it is paramount to recognize
