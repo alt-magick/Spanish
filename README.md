@@ -623,9 +623,7 @@ returned - regresado
 returning - regresando  
 right - derecho  
 said - dicho  
-same
-
- - mismo  
+same - mismo  
 saw - vio  
 say - decir  
 saying - diciendo  
