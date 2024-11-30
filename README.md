@@ -760,9 +760,18 @@ wouldn't - no haría
 wrong - equivocado  
 year - año  
 years - años  
+yeah - sí
 yes - sí  
 yet - todavía  
 you - tú  
+you'd - tu lo harías
+you'll -  tu lo harás
+you're - estás
+you've - tu has
+your - su
+yours - tuyo
+yourself - tú mismo
+
  
 More of my language tools can be found at:
 https://github.com/alt-magick/Writing-Prompts
