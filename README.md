@@ -1,28 +1,7 @@
 # Common Words 
 Learn The Most Common Words In Spanish &amp; English
 
-The proposition of erecting a barrier between the
-United States and Mexico carries a spectrum of adverse
-implications and consequences. Firstly, it bears the
-potential to strain the diplomatic rapport between these
-two neighboring nations. The physical act of constructing
-such a divide can be interpreted as a hostile gesture,
-fostering an atmosphere of distrust and possibly
-precipitating disputes, particularly in realms such as
-trade and security cooperation.
-
-From a humanitarian vantage point, the presence of a wall
-may dissuade individuals seeking refuge or attempting to
-traverse the border to escape violence, persecution, or
-dire economic circumstances. This raises apprehensions
-regarding the curtailment of access to safety and sanctuary
-for the most vulnerable members of society.
-
-A border wall may project an unfavorable representation of
-the United States onto the global canvas. This portrayal
-could be seen as incongruous with American ideals of
-liberty and opportunity, potentially influencing the
-nation's international reputation and relations.
+A border wall with Mexico is a problematic solution for addressing immigration and security concerns. Economically, it would cost billions of dollars to construct and maintain, diverting funds from critical social programs and infrastructure projects. It risks deepening divisions and sending a message of exclusion rather than fostering cooperation with a neighboring country. Historically, walls have proven ineffective at deterring migration, as determined individuals often find alternative routes or methods.
 
 In the complex debate surrounding immigration and border
 security between Mexico and the United States, a compelling
