@@ -132,7 +132,8 @@ Here is a list I created of the most common words translated into spanish:
 a - un  
 able - capaz  
 about - sobre  
-above - arriba  
+above - arriba 
+actual - actual
 actually - en realidad  
 after - después  
 again - otra vez  
