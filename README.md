@@ -1,7 +1,7 @@
 # Common Words 
 Learn The Most Common Words In Spanish &amp; English
 
-A border wall with Mexico is a problematic solution for addressing immigration and security concerns. Economically, it would cost billions of dollars to construct and maintain, diverting funds from critical social programs and infrastructure projects. It risks deepening divisions and sending a message of exclusion rather than fostering cooperation with a neighboring country. Historically, walls have proven ineffective at deterring migration, as determined individuals often find alternative routes or methods.
+A border wall with Mexico is a problematic solution for addressing immigration and security concerns. Economically, it would cost billions of dollars to construct and maintain, diverting funds from critical social programs and infrastructure projects. And it risks deepening divisions and sending a message of exclusion rather than cooperation with Mexico.
 
 In the complex debate surrounding immigration and border
 security between Mexico and the United States, a compelling
