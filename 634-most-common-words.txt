@@ -1,7 +1,8 @@
 a - un  
 able - capaz  
 about - sobre  
-above - arriba  
+above - arriba
+actual - actual
 actually - en realidad  
 after - después  
 again - otra vez  
