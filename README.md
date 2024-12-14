@@ -352,7 +352,8 @@ here - aquí
 him - él  
 himself - él mismo  
 his - su  
-hold - sostener  
+hold - sostener
+holding - tenencia
 how - cómo  
 however - sin embargo  
 hurt - herir  
