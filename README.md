@@ -327,6 +327,7 @@ gotten - conseguido
 great - genial  
 had - tuvo  
 hadn't - no tuvo  
+happen - suceder
 happened - sucedido  
 happening - sucediendo  
 hard - difícil  
