@@ -281,10 +281,10 @@ except - excepto
 expect - esperar  
 expected - esperado  
 explain - explicar  
-explained - explicado  
+explained - explicado
+explaining - explicando
 extra - extra  
-fact - hecho  
-facts - hechos  
+fact - hecho   
 far - lejos  
 fast - rápido  
 faster - más rápido  
