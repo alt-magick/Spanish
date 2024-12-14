@@ -1,7 +1,7 @@
 a - un  
 able - capaz  
 about - sobre  
-above - arriba
+above - arriba 
 actual - actual
 actually - en realidad  
 after - después  
@@ -30,7 +30,7 @@ anymore - ya no
 anyone - nadie  
 anything - nada  
 anyway - de todos modos  
-anywhere - en cualquier lugar  
+anywhere - en cualquier lugar 
 apparent - aparente
 apparently - aparentemente  
 are - son  
@@ -227,7 +227,7 @@ have - tener
 having - teniendo  
 he - él  
 he'd - él habría  
-he's - él está  
+he's - él está
 hear - escuchar
 heard - oído  
 hearing - audiencia
@@ -242,14 +242,16 @@ here - aquí
 him - él  
 himself - él mismo  
 his - su  
-hold - sostener  
+hold - sostener
 holding - tenencia
 how - cómo  
 however - sin embargo  
-hurt - herir  
+hurt - herir
+hurting - lastimando
 I - yo  
 idea - idea  
 if - si  
+immediate = inmediata
 immediately - inmediatamente  
 important - importante  
 impossible - imposible  
@@ -279,13 +281,15 @@ knows - sabe
 last - último  
 lasted - duró  
 lasting - duradero  
-late - tarde  
+late - tarde
+lately - últimamente
 later - más tarde  
 learn - aprender  
 learned - aprendido  
 learning - aprendiendo  
 least - menos  
 leave - dejar  
+leaving - partida
 left - dejado  
 less - menos  
 let - dejar  
@@ -295,7 +299,9 @@ like - como
 liked - gustó  
 likely - probablemente  
 likes - le gusta  
-listen - escuchar  
+listen - escuchar
+listened - escuchado
+listening - escuchando
 little - pequeño  
 long - largo  
 longer - más largo  
