@@ -280,6 +280,7 @@ exactly - exactamente
 except - excepto  
 expect - esperar  
 expected - esperado  
+expecting - esperando
 explain - explicar  
 explained - explicado
 explaining - explicando
@@ -483,7 +484,6 @@ noticed - notado
 noticing - notando
 now - ahora  
 nowhere - en ninguna parte  
-number - número  
 obvious - obvio  
 obviously - obviamente  
 occurred - ocurrió
