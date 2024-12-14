@@ -419,7 +419,8 @@ lost - perdido
 lot - mucho  
 love - amar  
 loved - amado  
-loving - amoroso  
+loving - amoroso
+lying - mentiroso
 made - hecho  
 make - hacer  
 makes - hace  
@@ -444,8 +445,7 @@ met - conocí
 might - podría  
 mind - mente  
 mine - mío  
-minute - minuto  
-minuets - minuetes  
+minute - minuto    
 mistake - error  
 mistaken - equivocado  
 mistaking - confundiendo  
