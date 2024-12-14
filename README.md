@@ -337,8 +337,10 @@ have - tener
 having - teniendo  
 he - él  
 he'd - él habría  
-he's - él está  
+he's - él está
+hear - escuchar
 heard - oído  
+hearing - audiencia
 held - sostenido  
 help - ayudar  
 helped - ayudado  
