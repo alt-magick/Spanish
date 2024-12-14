@@ -232,6 +232,7 @@ create - crear
 created - creado  
 creating - creando  
 current - actual  
+currently - actualmente
 decide - decidir  
 decided - decidido  
 depend - depender  
