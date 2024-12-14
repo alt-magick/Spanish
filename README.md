@@ -140,7 +140,8 @@ anymore - ya no
 anyone - nadie  
 anything - nada  
 anyway - de todos modos  
-anywhere - en cualquier lugar  
+anywhere - en cualquier lugar 
+apparent - aparente
 apparently - aparentemente  
 are - son  
 around - alrededor  
