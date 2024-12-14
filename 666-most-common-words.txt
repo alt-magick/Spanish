@@ -310,6 +310,7 @@ lot - mucho
 love - amar  
 loved - amado  
 loving - amoroso  
+lying - mentiroso
 made - hecho  
 make - hacer  
 makes - hace  
@@ -335,7 +336,6 @@ might - podría
 mind - mente  
 mine - mío  
 minute - minuto  
-minuets - minuetes  
 mistake - error  
 mistaken - equivocado  
 mistaking - confundiendo  
