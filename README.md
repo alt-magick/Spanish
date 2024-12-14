@@ -444,8 +444,7 @@ merely - simplemente
 met - conocí  
 might - podría  
 mind - mente  
-mine - mío  
-minute - minuto    
+mine - mío     
 mistake - error  
 mistaken - equivocado  
 mistaking - confundiendo  
@@ -485,7 +484,8 @@ noticing - notando
 now - ahora  
 nowhere - en ninguna parte  
 obvious - obvio  
-obviously - obviamente  
+obviously - obviamente
+occur - ocurrir
 occurred - ocurrió
 occurring - ocurriendo
 odd - extraño  
