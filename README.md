@@ -485,13 +485,16 @@ not - no
 nothing - nada  
 notice - notar  
 noticed - notado  
+noticing - notando
 now - ahora  
 nowhere - en ninguna parte  
 number - número  
 obvious - obvio  
 obviously - obviamente  
-occurred - ocurrió  
+occurred - ocurrió
+occurring - ocurriendo
 odd - extraño  
+oddly - extrañamente
 of - de  
 off - apagado  
 often - a menudo  
@@ -503,6 +506,7 @@ only - solo
 onto - sobre  
 open - abrir  
 opened - abierto  
+opening - apertura
 or - o  
 ordinarily - ordinariamente  
 other - otro  
@@ -516,10 +520,11 @@ part - parte
 passed - pasado  
 past - pasado  
 people - personas  
-perhaps - quizás  
+perhaps t- quizás  
 person - persona  
 place - lugar  
 plain - simple  
+please - por favor
 pleased - complacido  
 point - punto  
 possible - posible  
@@ -529,27 +534,32 @@ problem - problema
 put - poner  
 quick - rápido  
 quickly - rápidamente  
-quiet - silencioso  
+quiet - silencioso
+quietly - por favor
 quit - dejar  
 quite - bastante  
 ran - corrió  
 rather - más bien  
 reach - alcanzar  
-reached - alcanzado  
+reached - alcanzado
+reaching - alcanzando
 ready - listo  
 real - real  
 realized - realizado  
 really - realmente  
 reason - razón  
 recognize - reconocer  
-recognized - reconocido  
+recognized - reconocido
+recognizing - reconociendo
 remain - permanecer  
 remained - permanecido  
 remaining - restante  
 remember - recordar  
-remembered - recordado  
+remembered- recordado
+remmbering - recordando
 remind - recordar  
-reminded - recordado  
+reminded - recordado 
+reminding -  recordando
 repeat - repetir  
 repeated - repetido  
 repeating - repitiendo  
@@ -570,6 +580,8 @@ say - decir
 saying - diciendo  
 says - dice  
 search - buscar  
+searched - buscado
+searching - búsqueda
 second - segundo  
 see - ver  
 seeing - viendo  
@@ -578,7 +590,8 @@ seemed - pareció
 seeming - pareciendo  
 seems - parece  
 seen - visto  
-send - enviar  
+send - enviar
+sending - envío
 sense - sentido  
 sent - enviado  
 serious - serio  
@@ -634,7 +647,8 @@ suppose - suponer
 supposed - supuesto  
 supposing - suponiendo  
 supposedly - supuestamente  
-sure - seguro  
+sure - seguro
+surely - seguramente
 surprise - sorpresa  
 surprised - sorprendido  
 surprising - sorprendente  
@@ -654,6 +668,7 @@ then - entonces
 there - allí  
 these - estos  
 they - ellos  
+they'll - ellos
 they're - ellos son  
 thing - cosa  
 things - cosas  
@@ -677,7 +692,8 @@ tried - intentado
 trouble - problema  
 true - verdadero  
 try - intentar  
-trying - intentando  
+trying - intentando
+turn - doblar
 turned - convertido  
 turning - girando  
 type - tipo  
