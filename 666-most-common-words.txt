@@ -172,9 +172,9 @@ expect - esperar
 expected - esperado  
 explain - explicar  
 explained - explicado  
+explaining - explicando
 extra - extra  
 fact - hecho  
-facts - hechos  
 far - lejos  
 fast - rápido  
 faster - más rápido  
