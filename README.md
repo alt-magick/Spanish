@@ -356,10 +356,12 @@ hold - sostener
 holding - tenencia
 how - cómo  
 however - sin embargo  
-hurt - herir  
+hurt - herir
+hurting - lastimando
 I - yo  
 idea - idea  
 if - si  
+immediate = inmediata
 immediately - inmediatamente  
 important - importante  
 impossible - imposible  
@@ -389,13 +391,15 @@ knows - sabe
 last - último  
 lasted - duró  
 lasting - duradero  
-late - tarde  
+late - tarde
+lately - últimamente
 later - más tarde  
 learn - aprender  
 learned - aprendido  
 learning - aprendiendo  
 least - menos  
 leave - dejar  
+leaving - partida
 left - dejado  
 less - menos  
 let - dejar  
@@ -405,7 +409,9 @@ like - como
 liked - gustó  
 likely - probablemente  
 likes - le gusta  
-listen - escuchar  
+listen - escuchar
+listened - escuchado
+listening - escuchando
 little - pequeño  
 long - largo  
 longer - más largo  
