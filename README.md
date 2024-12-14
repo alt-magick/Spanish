@@ -356,8 +356,6 @@ hold - sostener
 holding - tenencia
 how - cómo  
 however - sin embargo  
-hurt - herir
-hurting - lastimando
 I - yo  
 idea - idea  
 if - si  
@@ -394,9 +392,6 @@ lasting - duradero
 late - tarde
 lately - últimamente
 later - más tarde  
-learn - aprender  
-learned - aprendido  
-learning - aprendiendo  
 least - menos  
 leave - dejar  
 leaving - partida
