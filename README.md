@@ -15,7 +15,7 @@ communication. A language barrier inherently restricts
 dialogue between individuals on both sides of the
 border. Removing this barrier creates an environment
 where open and productive conversations can flourish.
-This newfound communication channels can foster
+This newfound communication channel can foster
 cooperation on critical issues such as trade, security,
 and environmental concerns. When two nations can
 effectively communicate, they are better equipped to find
